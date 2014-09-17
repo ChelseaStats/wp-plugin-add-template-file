@@ -1,4 +1,4 @@
 wp-plugin-add-template-file
 ===========================
 
-adds a template file to the active WordPress theme
+> adds a template file to the active WordPress theme
